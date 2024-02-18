@@ -1,0 +1,41 @@
+.example-container {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .my-custom-style {    
+    border: 2px solid green;
+  }
+  
+
+.card {
+    margin: 2rem auto;
+    padding: 2rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 15px;
+    max-width: 600px;
+    text-align: center;
+    background-color: white;
+  }
+  
+  .card h1 {
+    color: #333;
+    font-size: 24px;
+  }
+  
+  .card p {
+    color: #666;
+    margin: 20px 0;
+  }
+  
+  .custom-style {
+    transition: all 0.3s ease;
+    cursor: pointer;
+    display: inline-block;
+  }
+  
+  .custom-style:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  }
+  
